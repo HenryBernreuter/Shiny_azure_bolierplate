@@ -1,0 +1,13 @@
+name: login_app
+title: login_app
+username:
+account: henrybernreuter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5383197
+bundleId: 5422689
+url: https://henrybernreuter.shinyapps.io/login_app/
+when: 1640957920.55622
+lastSyncTime: 1640957920.55622
+asMultiple: FALSE
+asStatic: FALSE
